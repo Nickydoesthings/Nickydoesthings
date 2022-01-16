@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicky Zarick
-- 👀 I’m interested in mathematics, physics, and all things science.
+- 👀 I’m interested in mathematics, data, and all things science.
 - 🌱 I’m currently learning mathematical computing with Python.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me: e-mail me at nicky.zarick@gmail.com
